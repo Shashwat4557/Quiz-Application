@@ -1,0 +1,9 @@
+Django==1.11.29
+django-crispy-forms==1.7.2
+django-model-utils==3.1.1
+Pillow==8.1.1
+pytz==2018.3
+
+
+# written or higher version of these packages can also be used, 
+# but please see the documentation for more information on how to install and use them
